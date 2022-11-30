@@ -1,1 +1,1 @@
-select count(*) from higehige
+select count(*) from fugafuga
