@@ -1,0 +1,2 @@
+file,target,'master or slave'
+01.sql,data-*,slave
